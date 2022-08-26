@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2012\Projects\pile\pile\bin\Debug\pile.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\pile\pile\bin\Debug\pile.exe
+c:\users\administrator\documents\visual studio 2012\Projects\pile\pile\bin\Debug\pile.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\pile\pile\obj\Debug\pile.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\pile\pile\obj\Debug\pile.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\pile\pile\obj\Debug\pile.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\pile\pile\obj\Debug\pile.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\pile\pile\obj\Debug\pile.exe
+c:\users\administrator\documents\visual studio 2012\Projects\pile\pile\obj\Debug\pile.pdb

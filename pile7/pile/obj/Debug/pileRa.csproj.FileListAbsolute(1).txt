@@ -1,0 +1,18 @@
+c:\users\administrator\documents\visual studio 2012\Projects\pile\pile\bin\Debug\pile.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\pile\pile\bin\Debug\pile.exe
+c:\users\administrator\documents\visual studio 2012\Projects\pile\pile\bin\Debug\pile.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\pile\pile\obj\Debug\pileRa.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\pile\pile\obj\Debug\PileRa.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\pile\pile\obj\Debug\PileRa.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\pile\pile\obj\Debug\pileRa.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\pile\pile\obj\Debug\pile.exe
+c:\users\administrator\documents\visual studio 2012\Projects\pile\pile\obj\Debug\pile.pdb
+F:\BaiduNetdiskDownload\pile\pile\bin\Debug\pile.exe.config
+F:\BaiduNetdiskDownload\pile\pile\obj\Debug\pile.exe
+F:\BaiduNetdiskDownload\pile\pile\obj\Debug\pile.pdb
+F:\BaiduNetdiskDownload\pile\pile\bin\Debug\pile.exe
+F:\BaiduNetdiskDownload\pile\pile\bin\Debug\pile.pdb
+F:\BaiduNetdiskDownload\pile\pile\obj\Debug\PileRa.csprojResolveAssemblyReference.cache
+F:\BaiduNetdiskDownload\pile\pile\obj\Debug\PileRa.Form1.resources
+F:\BaiduNetdiskDownload\pile\pile\obj\Debug\PileRa.Properties.Resources.resources
+F:\BaiduNetdiskDownload\pile\pile\obj\Debug\PileRa.csproj.GenerateResource.Cache

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pile>
+  <info />
+  <layer>
+    <label>HoleNo1</label>
+    <name>clay</name>
+    <startelevation>19.1</startelevation>
+    <endelevation>20.1</endelevation>
+    <scoeffient>1</scoeffient>
+    <ecoeffient>1</ecoeffient>
+    <qs>10</qs>
+    <qu>0</qu>
+    <tcoeffient>1</tcoeffient>
+  </layer>
+  <info />
+  <layer>
+    <label>HoleNo2</label>
+    <name>clay2</name>
+    <startelevation>20.1</startelevation>
+    <endelevation>21.1</endelevation>
+    <scoeffient>1</scoeffient>
+    <ecoeffient>1</ecoeffient>
+    <qs>1</qs>
+    <qu>10</qu>
+    <tcoeffient>1</tcoeffient>
+  </layer>
+  <info />
+  <layer>
+    <label>HoleNo3</label>
+    <name>clay3</name>
+    <startelevation>21.1</startelevation>
+    <endelevation>22.1</endelevation>
+    <scoeffient>1</scoeffient>
+    <ecoeffient>1</ecoeffient>
+    <qs>10</qs>
+    <qu>100</qu>
+    <tcoeffient>1</tcoeffient>
+  </layer>
+</pile>

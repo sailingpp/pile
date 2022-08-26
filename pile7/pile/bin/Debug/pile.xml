@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pile>
+ 	 <info>
+		<diameter>0.8</diameter>
+		<scoeffient>1</scoeffient>
+    		<ecoeffient>1</ecoeffient>
+  	</info>
+  	<layer>
+    		<label>孔1</label>
+    		<name>黏土</name>
+    		<startelevation>19.1</startelevation>
+    		<endelevation>20.1</endelevation>
+    		<tcoeffient>1</tcoeffient>
+    		<qs>10</qs>
+    		<qu>0</qu>
+  	</layer>
+  	<layer>
+    		<label>孔2</label>
+    		<name>黏土</name>
+    		<startelevation>20.1</startelevation>
+    		<endelevation>21.1</endelevation>
+    		<tcoeffient>1</tcoeffient>
+    		<qs>1</qs>
+    		<qu>10</qu>
+ 	 </layer>
+  	<layer>
+    		<label>孔3</label>
+    		<name>粉土</name>
+    		<startelevation>21.1</startelevation>
+    		<endelevation>22.1</endelevation>
+    		<tcoeffient>1</tcoeffient>
+    		<qs>10</qs>
+    		<qu>100</qu>
+  	</layer>
+</pile>
